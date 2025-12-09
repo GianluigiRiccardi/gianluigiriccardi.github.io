@@ -1,26 +1,28 @@
-[
-  {
-    "role": "Responsabile Tecnico & Manutenzione – Oil & Gas",
-    "company": "La Mantia S.r.l. (Sonatrach Depot)",
-    "period": "2020–2025",
-    "highlights": [
-      "Coordinamento tecnico di impianti complessi (Oleodotti, VRU, Antincendio)",
-      "Analisi vibrazionale (Fluke VibExpert 2) e manometri Keller Reader",
-      "Progettazione sollevamenti critici e sviluppo SimuLift con Simulink",
-      "Sviluppo Piani di Recupero e POS per spazi confinati",
-      "Partecipazione a HAZOP, individuazione e rimozione dead legs",
-      "Progettazione MOC per sostituzione valvole e modifiche di impianto"
-    ]
-  },
-  {
-    "role": "Sviluppatore di soluzioni digitali per la manutenzione",
-    "company": "Freelance",
-    "period": "2024–oggi",
-    "highlights": [
-      "Sviluppo ReliaVib (AI per vibrazioni)",
-      "Sviluppo Intelligent Task Manager (MATLAB)",
-      "Integrazione Trello, API Google Calendar, Zapier",
-      "Implementazione reportistica avanzata PDF in MATLAB"
-    ]
-  }
-]
+{
+  "experience": [
+    {
+      "role": "Responsabile Tecnico & Manutenzione – Oil & Gas",
+      "company": "La Mantia S.r.l. (Sonatrach Depot)",
+      "period": "2020–2025",
+      "description": [
+        "Coordinamento tecnico di impianti complessi (Oleodotti, VRU, Antincendio)",
+        "Analisi vibrazionale (Fluke VibExpert 2) e manometri Keller Reader",
+        "Progettazione sollevamenti critici e sviluppo SimuLift con Simulink",
+        "Sviluppo Piani di Recupero e POS per spazi confinati",
+        "Partecipazione a HAZOP, individuazione e rimozione dead legs",
+        "Progettazione MOC per sostituzione valvole e modifiche di impianto"
+      ]
+    },
+    {
+      "role": "Sviluppatore di soluzioni digitali per la manutenzione",
+      "company": "Freelance",
+      "period": "2024–oggi",
+      "description": [
+        "Sviluppo ReliaVib (AI per vibrazioni)",
+        "Sviluppo Intelligent Task Manager (MATLAB)",
+        "Integrazione Trello, API Google Calendar, Zapier",
+        "Implementazione reportistica avanzata PDF in MATLAB"
+      ]
+    }
+  ]
+}
