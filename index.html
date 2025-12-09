@@ -91,6 +91,27 @@
 <footer class="no-print">
     <p>© 2025 Gianluigi Riccardi – Engineering Portfolio</p>
 </footer>
+<script>
+fetch('data/experience.json')
+    .then(response => response.json())
+    .then(data => {
+        const container = document.getElementById('experience-container');
+        data.experience.forEach(item => {
+            const block = document.createElement('div');
+            block.classList.add('experience-item');
+
+            block.innerHTML = `
+                <h3>${item.role}</h3>
+                <h4>${item.company} — <span>${item.period}</span></h4>
+                <ul>
+                    ${item.description.map(point => `<li>${point}</li>`).join('')}
+                </ul>
+            `;
+            container.appendChild(block);
+        });
+    })
+    .catch(error => console.error('Error loading experience:', error));
+</script>
 
 </body>
 </html>
