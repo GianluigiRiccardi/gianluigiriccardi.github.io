@@ -1,8 +1,10 @@
 **Safety, Reliability & Systems Engineering for Critical Assets**
 
 📧 gianluigi.riccardi@icloud.com  
-🔗 LinkedIn | GitHub | Engineering Portfolio  
-📍 San Nicola La Strada (Caserta) · +39 339 859 0552
+🔗 🔗 LinkedIn: [gianluigi-riccardi-ai-industrial](https://www.linkedin.com/in/gianluigi-riccardi-ai-industrial) | 
+GitHub: [GianluigiRiccardi](https://github.com/GianluigiRiccardi) 
+📍 San Nicola La Strada (Caserta)  
+📞 +39 339 859 0552
 
 
 ---
