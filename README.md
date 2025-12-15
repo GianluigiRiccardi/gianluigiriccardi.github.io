@@ -74,7 +74,7 @@ Vibration analysis tools • RAMS methodologies • EHS standards
 
 ## Contact
 📧 gianluigi.riccardi@icloud.com  
-🔗 LinkedIn  
+🔗 LinkedIn  gianluigi-riccardi-ai-industrial
 
 ---
 🌐 GitHub Page
