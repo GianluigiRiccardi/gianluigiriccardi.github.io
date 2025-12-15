@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 **Safety, Reliability & Systems Engineering for Critical Assets**
