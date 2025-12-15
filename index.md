@@ -1,5 +1,5 @@
 # Gianluigi Riccardi
-**EHS Manager – Sicurezza, Ambiente & Affidabilità Industriale**
+**Technical EHS Manager – Sicurezza, Ambiente & Affidabilità Industriale**
 
 📧 gianluigi.riccardi@icloud.com  
 🔗 [LinkedIn](https://linkedin.com/in/gianluigi-riccardi-ai-industrial)  
