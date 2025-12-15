@@ -77,6 +77,8 @@ Vibration analysis tools • RAMS methodologies • EHS standards
 🔗 LinkedIn  
 
 ---
-
+🌐 GitHub Page
+https://gianluigiriccardi.github.io/
+---
 *This portfolio is continuously evolving.  
 Engineering never stops improving.*
