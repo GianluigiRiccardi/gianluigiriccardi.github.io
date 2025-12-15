@@ -1,18 +1,14 @@
 ---
 layout: default
-title: # Gianluigi Riccardi  
-## EHS – RAMS – Industrial Reliability Manager  
-**Safety, Reliability & Systems Engineering for Critical Assets**
 ---
 
+## EHS – RAMS – Industrial Reliability Manager
 
+**Safety, Reliability & Systems Engineering for Critical Assets**
 
 📧 gianluigi.riccardi@icloud.com  
 🔗 LinkedIn | GitHub | Engineering Portfolio  
-📍 San Nicola La Strada (Caserta) 
-📞 +39 339 859 0552
-
-
+📍 San Nicola La Strada (Caserta) · +39 339 859 0552
 
 
 ---
