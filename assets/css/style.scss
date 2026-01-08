@@ -1,1 +1,21 @@
+/* === BRAND HEADER BAR (ONLINE + PRINT) === */
+.site-header {
+  border-top: 6px solid #0f2d4a; /* petrol blue */
+}
+
+/* FORCE HEADER BAR IN PRINT / PDF */
+@media print {
+  .site-header {
+    border-top: 6px solid #0f2d4a !important;
+  }
+
+  /* fallback for strict printers */
+  .site-header::before {
+    content: "";
+    display: block;
+    height: 6px;
+    background: #0f2d4a;
+    margin-bottom: 8px;
+  }
+}
 
