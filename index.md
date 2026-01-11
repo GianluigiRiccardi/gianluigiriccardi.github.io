@@ -1,62 +1,78 @@
-# Gianluigi Riccardi  
-### Senior Industrial Manager & Operations Leader — Safety · Reliability · Maintenance
+# Gianluigi Riccardi
 
-📍 San Nicola La Strada (CE), Italy  
+## Senior Operations & Reliability Manager  
+**Safety-Critical Industrial Systems · Oil & Gas Background**
+
+📍 San Nicola la Strada (CE), Italy  
 📧 gianluigi.riccardi@icloud.com · 📞 +39 339 859 0552  
-💼 [LinkedIn](https://linkedin.com/in/gianluigi-riccardi-ai-industrial) · 💻 [GitHub](https://github.com/GianluigiRiccardi)
+🔗 LinkedIn · GitHub
 
 ---
 
-# Gianluigi Riccardi  
-### Senior Industrial Manager · Operations · Safety · Reliability
+## Executive Profile
+
+Senior Operations and Reliability Manager with **17+ years of experience in Oil & Gas and safety-critical industrial environments**, where operational discipline, system integrity and safety compliance are non-negotiable.
+
+My background is rooted in **high-risk, regulated infrastructures**, coordinating operations, maintenance and reliability activities to ensure availability, continuity of service and risk control.
+
+I work at the intersection of **operations management, RAMS-oriented thinking and data-driven decision support**, translating complex technical signals into actionable operational priorities.
+
+My professional focus is not on tools, but on **governing complex systems**, preventing degradation before failure, and enabling long-term operational stability.
 
 ---
 
-## 🚀 Executive Profile
-
-Senior Industrial Manager with **17+ years of experience** in operations, maintenance and reliability across **safety-critical industrial environments**.
-
-I operate at the intersection of **operational coordination, safety leadership and reliability engineering**, leveraging **data-driven methods and digital workflows** to improve **availability, service continuity and asset performance**.
-
----
-
-## 🧩 Core Competencies
+## Core Competencies
 
 - Operations & Maintenance Management  
 - Operational Planning & Resource Coordination  
-- Safety & EHS (procedures, compliance, culture)  
-- Reliability Engineering & RAMS  
-- Predictive Maintenance & Vibration Diagnostics  
+- Safety & EHS in Regulated Environments  
+- Reliability Engineering & RAMS Mindset  
 - Asset Integrity & Lifecycle Management  
+- Predictive & Condition-Based Maintenance Concepts  
+- KPI-Driven Operational Decision Support  
 - Process Optimization & Workflow Digitalization  
-- Team Leadership, Coaching & Training  
+- Leadership of Multidisciplinary Teams  
 
 ---
 
-## 📊 Key Achievements
+## Transferable Systems & Safety-Critical Competencies
 
-- **~20% reduction in unplanned downtime** through structured planning and predictive diagnostics  
-- **~40% reduction in safety-critical events** via LPS implementation and field supervision  
-- **15–20% increase in MTBF** on critical rotating equipment  
-- **Technical and RAMS oversight of 100+ industrial assets**  
-- **Operational coordination of 50+ high-risk lifting activities**  
-- **Digitalization of 15+ operational workflows**, improving traceability and execution speed  
+- Operations management in **Oil & Gas safety-critical infrastructures**  
+- Governance of complex, regulated technical systems  
+- Risk-informed decision making under operational constraints  
+- Reliability, availability and maintainability optimization  
+- Integration of operational data into **early-warning indicators**  
+- Proactive maintenance planning and degradation control  
+- Interface between field operations, engineering and management  
+- Continuous improvement in environments where downtime and incidents have systemic impact  
 
 ---
 
-## 🏭 Professional Experience
+## Key Achievements
+
+- ~20% reduction in unplanned downtime through structured operational planning and predictive diagnostics  
+- ~40% reduction in safety-critical events via field supervision and Loss Prevention System (LPS) governance  
+- 15–20% increase in MTBF on critical assets operating in continuous service  
+- Technical and reliability oversight of **100+ industrial assets**  
+- Coordination of **50+ high-risk lifting and critical operations**  
+- Digitalization of **15+ operational workflows**, improving traceability, control and execution speed  
+- Development of decision-support indicators to prioritize maintenance actions based on risk and degradation trends  
+
+---
+
+## Professional Experience
 
 ### Technical Manager – EHS, Reliability & Maintenance  
 **La Mantia S.r.l. | Esso Italiana / Sonatrach**  
 *2013 – Present*
 
-- Coordination of **maintenance and field operations** in safety-critical environments  
-- Responsibility for **operational planning, asset integrity and service continuity**  
-- Oversight of **high-risk lifting operations**  
-- Implementation and governance of **Loss Prevention System (LPS)**  
-- Development of **predictive maintenance strategies**  
-- Design and deployment of **digital workflows** for EHS, maintenance and planning  
-- Daily coordination with **contractors, suppliers and plant management**  
+- Coordination of maintenance and field operations in safety-critical Oil & Gas environments  
+- Responsibility for operational planning, asset integrity and service continuity  
+- Governance of high-risk operations, including critical lifting activities  
+- Implementation and supervision of Loss Prevention System (LPS)  
+- Development of predictive and condition-based maintenance strategies  
+- Design and deployment of digital workflows for EHS, maintenance and operational planning  
+- Daily coordination with contractors, suppliers and plant management  
 
 ---
 
@@ -64,32 +80,33 @@ I operate at the intersection of **operational coordination, safety leadership a
 **La Mantia S.r.l. | Esso Italiana**  
 *2009 – 2012*
 
-- Technical review of **specifications and materials**  
+- Technical review of engineering specifications and materials  
 - Supplier qualification and performance evaluation  
-- Engineering and maintenance support activities  
+- Support to maintenance and engineering teams on equipment selection and reliability  
 
 ---
 
-## 🧪 Selected Engineering & Operational Projects
+## Selected Engineering & Operational Projects
 
-- **SimuLift** — Digital Twin for lifting risk assessment  
-- **ReliaVib** — Mobile vibration-based diagnostic tool  
-- **OMI – Original Maintenance Index** — Machine health indicator  
-- **Intelligent Task Manager** — Workflow automation for maintenance and EHS  
+- **SimuLift** — Digital twin for risk assessment of lifting operations in safety-critical environments  
+- **ReliaVib** — Mobile vibration-based diagnostic approach for early fault detection  
+- **OMI – Original Maintenance Index**  
+  Decision-support framework developed to integrate maintenance signals, operational data and trend analysis, supporting proactive and risk-informed maintenance planning  
+- **Intelligent Task Manager** — Workflow automation for maintenance and EHS execution  
 
 ---
 
-## 🎓 Education
+## Education
 
 **BSc in Industrial Engineering** *(in progress)*  
-Expected completion: **2027**
+Expected completion: 2027  
 
 ---
 
-## 📜 Certifications & Training
+## Certifications & Training
 
 - Advanced Vibration Analysis  
-- MATLAB, Simulink & Machine Learning  
+- MATLAB, Simulink & Machine Learning (applied)  
 - Loss Prevention System (LPS)  
 - ATEX  
 - Confined Spaces  
@@ -98,18 +115,16 @@ Expected completion: **2027**
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - Italian — Native  
-- English — B2 (Professional)
+- English — B2 (Professional)  
 
 ---
 
-## 💡 Professional Value
+## Professional Value
 
 I bring **operational discipline, safety leadership and reliability engineering** into a single profile.
 
-My focus is simple and non-negotiable:  
-**keep operations safe, reliable and under control**, while continuously improving **processes, teams and asset performance**.
-
-> *Operational clarity, safety discipline and engineering rigor — this is how I work.*
+My approach is pragmatic and system-oriented:  
+**keep operations safe, reliable and under control**, while continuously improving processes, teams and asset performance.
