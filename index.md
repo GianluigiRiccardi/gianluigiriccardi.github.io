@@ -5,7 +5,7 @@
 
 📍 San Nicola la Strada (CE), Italy  
 📧 gianluigi.riccardi@icloud.com · 📞 +39 339 859 0552  
-🔗 LinkedIn · GitHub
+🔗 www.linkedin.com/in/gianluigi-riccardi-ai-industrial · GitHub
 
 ---
 
