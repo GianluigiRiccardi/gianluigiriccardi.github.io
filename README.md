@@ -1,5 +1,5 @@
 # Gianluigi Riccardi  
-### Senior Engineer & Operations Leader — Safety · Reliability · Maintenance
+### Senior Operations Manager — Safety · Reliability · Maintenance
 
 📍 San Nicola La Strada (CE), Italy  
 📧 gianluigi.riccardi@icloud.com · 📞 +39 339 859 0552  
@@ -8,7 +8,7 @@
 ---
 
 ## Executive Profile
-Senior Industrial Engineer with **17+ years of experience** in safety-critical and high-risk industrial environments.  
+Senior Industrial Manager with **17+ years of experience** in safety-critical and high-risk industrial environments.  
 Strong background in **operations, maintenance management, safety (EHS) and reliability**, with hands-on leadership on critical assets, teams and processes.
 
 I combine **operational coordination, safety culture and reliability engineering** with **data-driven methods and digital tools** to improve availability, service continuity and cost control.
