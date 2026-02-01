@@ -1,8 +1,8 @@
 # Gianluigi Riccardi  
 ### Senior Operations Manager — Safety · Reliability · Maintenance
 
-📍 San Nicola La Strada (CE), Italy  
-📧 gianluigi.riccardi@icloud.com · 📞 +39 339 859 0552  
+📍 Italy  
+📧 gianluigi.riccardi@icloud.com   
 💼 [LinkedIn](https://linkedin.com/in/gianluigi-riccardi-ai-industrial) · 💻 [GitHub](https://github.com/GianluigiRiccardi)
 
 ---
