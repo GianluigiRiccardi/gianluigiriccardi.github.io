@@ -1,0 +1,108 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,400..800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --petrol:#0F2D4A; --paper:#EEF1F3; --ink:#14202B; --steel:#5B6B78; --rule:#C9D1D8; --amber:#D9930F; --bg:#FAFBFC;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --petrol:#9CC3E6; --paper:#16232F; --ink:#E6ECF1; --steel:#9AA9B5; --rule:#2C3B48; --amber:#F0B23A; --bg:#0E1821; }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 1.125rem/1.7 "Source Serif 4",Georgia,serif}
+a{color:var(--petrol);text-underline-offset:3px}
+a:focus-visible{outline:3px solid var(--amber);outline-offset:3px}
+.wrap{max-width:46rem;margin:0 auto;padding:0 1.25rem}
+header{background:var(--paper);border-bottom:1px solid var(--rule)}
+header .wrap{padding-top:4.5rem;padding-bottom:0}
+h1,h2,h3,.lead,.figs dt{font-family:Archivo,system-ui,sans-serif}
+h1{font-size:clamp(2.6rem,7vw,4.4rem);line-height:1;font-weight:750;font-stretch:112%;letter-spacing:-.02em;margin:0;color:var(--petrol)}
+.tag{font-family:Archivo,sans-serif;font-stretch:125%;font-weight:500;font-size:clamp(1.05rem,2.6vw,1.35rem);color:var(--ink);margin:.9rem 0 0}
+.trend{display:block;width:100%;height:auto;margin-top:2.5rem}
+.trend .sig{fill:none;stroke:var(--petrol);stroke-width:2.2;stroke-linejoin:round}
+.trend .proj{fill:none;stroke:var(--steel);stroke-width:1.6;stroke-dasharray:3 6;opacity:.7}
+.trend .thr{stroke:var(--amber);stroke-width:2;stroke-dasharray:10 6}
+.trend text{font:500 20px Archivo,sans-serif;fill:var(--steel)}
+.trend .act{fill:var(--petrol);font-weight:700}
+.trend .thrl{fill:var(--amber);font-weight:600}
+main .wrap{padding-top:3.5rem;padding-bottom:4rem}
+.lead{font-size:1.4rem;line-height:1.45;font-weight:500;margin:0 0 1.5rem}
+h2{font-size:1.5rem;font-weight:700;font-stretch:110%;color:var(--petrol);margin:3.5rem 0 1.25rem;padding-top:.5rem;border-top:3px solid var(--petrol);display:inline-block}
+.figs{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin:2rem 0 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.figs div{padding:1.1rem 1rem 1.1rem 0}
+.figs div+div{padding-left:1rem;border-left:1px solid var(--rule)}
+.figs dt{font-size:2rem;font-weight:700;font-stretch:115%;color:var(--petrol);line-height:1.1}
+.figs dd{margin:.3rem 0 0;font-size:.95rem;line-height:1.4;color:var(--steel)}
+.item{margin:0 0 1.6rem}
+.item h3{font-size:1.15rem;font-weight:650;margin:0 0 .25rem;color:var(--ink)}
+.item p{margin:0}
+footer{border-top:1px solid var(--rule);background:var(--paper)}
+footer .wrap{padding-top:2.5rem;padding-bottom:3rem}
+.btn{display:inline-block;font:600 1.05rem Archivo,sans-serif;background:var(--petrol);color:var(--bg);padding:.8rem 1.4rem;text-decoration:none;border-radius:2px}
+.btn:hover{filter:brightness(1.12)}
+.small{font-size:.9rem;color:var(--steel);margin-top:1.5rem}
+@media (max-width:560px){
+  header .wrap{padding-top:3rem}
+  .figs{grid-template-columns:1fr}
+  .figs div+div{padding-left:0;border-left:0;border-top:1px solid var(--rule)}
+  .trend text{font-size:30px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Gianluigi Riccardi</h1>
+    <p class="tag">Making machines think before they fail</p>
+    <svg class="trend" viewBox="0 0 1000 220" role="img" aria-label="A vibration trend rising toward an alarm threshold. The decision point is marked well before the threshold is crossed.">
+      <line class="thr" x1="0" y1="75" x2="1000" y2="75"/>
+      <text class="thrl" x="0" y="62">Alarm threshold</text>
+      <polyline class="sig" points="0.0,147.5 5.0,145.1 10.0,152.1 15.0,144.0 20.0,150.5 25.0,148.1 30.0,143.8 35.0,150.1 40.0,143.5 45.0,149.1 50.0,144.0 55.0,144.3 60.0,148.9 65.0,154.5 70.0,144.7 75.0,146.1 80.0,151.7 85.0,156.2 90.0,151.0 95.0,148.5 100.0,156.6 105.0,143.5 110.0,154.9 115.0,146.9 120.0,144.9 125.0,144.5 130.0,147.1 135.0,154.2 140.0,145.3 145.0,150.9 150.0,151.6 155.0,147.9 160.0,150.3 165.0,143.5 170.0,143.4 175.0,145.4 180.0,152.0 185.0,148.4 190.0,146.7 195.0,150.5 200.0,148.6 205.0,146.4 210.0,153.2 215.0,151.8 220.0,145.4 225.0,150.0 230.0,149.2 235.0,154.0 240.0,151.9 245.0,145.6 250.0,155.2 255.0,143.1 260.0,147.2 265.0,151.8 270.0,143.3 275.0,147.9 280.0,141.5 285.0,150.2 290.0,151.4 295.0,148.6 300.0,152.7 305.0,144.7 310.0,149.9 315.0,148.4 320.0,148.0 325.0,146.1 330.0,151.3 335.0,152.7 340.0,145.9 345.0,148.4 350.0,139.8 355.0,148.6 360.0,147.6 365.0,152.3 370.0,149.7 375.0,142.0 380.0,143.2 385.0,146.9 390.0,137.7 395.0,143.6 400.0,139.3 405.0,138.3 410.0,137.3 415.0,147.0 420.0,137.8 425.0,139.2 430.0,140.9 435.0,147.4 440.0,136.0 445.0,140.9 450.0,142.0 455.0,146.4 460.0,145.2 465.0,145.5 470.0,137.0 475.0,138.6 480.0,137.5 485.0,144.5 490.0,145.2 495.0,133.6 500.0,133.6 505.0,134.0 510.0,133.7 515.0,136.8 520.0,137.9 525.0,132.9 530.0,128.9 535.0,134.3 540.0,133.2 545.0,135.6 550.0,140.5 555.0,136.4 560.0,133.5 565.0,134.5 570.0,134.9 575.0,125.7 580.0,137.1 585.0,134.9 590.0,135.7 595.0,134.2 600.0,128.0 605.0,127.5 610.0,122.9 615.0,129.8 620.0,121.2 625.0,120.7 630.0,122.2 635.0,120.9 640.0,122.9 645.0,118.2 650.0,116.9 655.0,118.4 660.0,117.1 665.0,120.2 670.0,114.8 675.0,126.0 680.0,121.7 685.0,114.5 690.0,115.3 695.0,116.0 700.0,115.5"/>
+      <polyline class="proj" points="700.0,115.5 705.0,111.4 710.0,120.9 715.0,122.2 720.0,114.1 725.0,113.6 730.0,107.2 735.0,106.7 740.0,109.3 745.0,107.4 750.0,114.5 755.0,104.4 760.0,101.6 765.0,113.8 770.0,107.0 775.0,100.8 780.0,105.5 785.0,97.4 790.0,103.6 795.0,109.0 800.0,106.4 805.0,103.2 810.0,96.2 815.0,96.7 820.0,93.0 825.0,100.5 830.0,96.1 835.0,98.6 840.0,91.3 845.0,88.8 850.0,96.0 855.0,97.4 860.0,94.5 865.0,92.8 870.0,91.9 875.0,89.7 880.0,81.4 885.0,84.4 890.0,81.0 895.0,75.3 900.0,74.1"/>
+      <line x1="700" y1="115" x2="700" y2="205" stroke="var(--petrol)" stroke-width="1.5"/>
+      <circle cx="700" cy="115.5" r="6.5" fill="var(--petrol)"/>
+      <text class="act" x="714" y="198">Decide here</text>
+      <circle cx="900" cy="74" r="5" fill="none" stroke="var(--amber)" stroke-width="2"/>
+    </svg>
+  </div>
+</header>
+<main>
+  <div class="wrap">
+    <p class="lead">I run operations and maintenance on safety-critical Oil &amp; Gas assets, and I build the tools that help me decide before a failure decides for me.</p>
+    <p>For seventeen years I have worked on regulated industrial sites, since 2012 on a coastal fuel depot subject to the Seveso directive, on behalf of two energy majors. I coordinate a team of thirteen people across mechanical maintenance, critical lifting and ship unloading.</p>
+    <dl class="figs" aria-label="Results achieved with my team">
+      <div><dt>&minus;20%</dt><dd>unplanned downtime</dd></div>
+      <div><dt>&minus;40%</dt><dd>safety-critical events</dd></div>
+      <div><dt>+15&ndash;20%</dt><dd>MTBF on critical assets</dd></div>
+    </dl>
+
+    <h2>What I work on</h2>
+    <div class="item"><h3>Reliability as a management decision</h3><p>Every maintenance choice is a trade-off between cost, availability and risk. I make that trade-off explicit, measurable and defensible.</p></div>
+    <div class="item"><h3>Decisions you can defend</h3><p>Predictive maintenance and AI raise hundreds of alerts; people decide which ones matter. I work on making those decisions traceable, including the alerts that are set aside, with the same discipline the Oil &amp; Gas industry applies to near misses.</p></div>
+    <div class="item"><h3>Process safety on the ground</h3><p>Critical lifts, confined spaces, ATEX areas, permits to work: the places where procedures meet reality.</p></div>
+
+    <h2>Projects</h2>
+    <div class="item"><h3>SimuLift</h3><p>A Simulink model that checks a lifting operation before it is executed, built to assess risk in safety-critical environments.</p></div>
+    <div class="item"><h3>ReliaVib</h3><p>A low-cost approach to vibration diagnostics for early fault detection on rotating equipment.</p></div>
+    <div class="item"><h3>Industrial case studies</h3><p>Engineering assessments from the field, kept generic to protect site data: firefighting network continuity and dead-leg analysis. <a href="https://github.com/GianluigiRiccardi/Industrial-asset-portfolio">Read the case studies</a></p></div>
+  </div>
+</main>
+<footer>
+  <div class="wrap">
+    <h2 style="margin-top:0">Contact</h2>
+    <p>The best way to reach me is on LinkedIn.</p>
+    <a class="btn" href="https://www.linkedin.com/in/gianluigi-riccardi-ai-industrial">Message me on LinkedIn</a>
+  </div>
+</footer>
+</body>
+</html>

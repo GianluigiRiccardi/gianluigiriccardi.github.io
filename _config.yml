@@ -1,0 +1,8 @@
+title: Gianluigi Riccardi
+description: Operations and reliability for safety-critical industrial assets. Seventeen years in Oil & Gas, predictive tools built in MATLAB and Python, and decisions that can be defended.
+lang: en
+author: Gianluigi Riccardi
+url: https://gianluigiriccardi.github.io
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
