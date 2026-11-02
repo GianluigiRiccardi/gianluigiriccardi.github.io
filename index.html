@@ -38,7 +38,7 @@ h1{font-size:clamp(2.6rem,7vw,4.4rem);line-height:1;font-weight:750;font-stretch
 main .wrap{padding-top:3.5rem;padding-bottom:4rem}
 .lead{font-size:1.4rem;line-height:1.45;font-weight:500;margin:0 0 1.5rem}
 h2{font-size:1.5rem;font-weight:700;font-stretch:110%;color:var(--petrol);margin:3.5rem 0 1.25rem;padding-top:.5rem;border-top:3px solid var(--petrol);display:inline-block}
-.figs{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin:2rem 0 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.figs{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin:2rem 0 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
 .figs div{padding:1.1rem 1rem 1.1rem 0}
 .figs div+div{padding-left:1rem;border-left:1px solid var(--rule)}
 .figs dt{font-size:2rem;font-weight:700;font-stretch:115%;color:var(--petrol);line-height:1.1}
@@ -53,7 +53,8 @@ footer .wrap{padding-top:2.5rem;padding-bottom:3rem}
 .small{font-size:.9rem;color:var(--steel);margin-top:1.5rem}
 @media (max-width:560px){
   header .wrap{padding-top:3rem}
-  .figs{grid-template-columns:1fr}
+  .figs{grid-template-columns:1fr 1fr}
+  .figs div:nth-child(3){padding-left:0;border-left:0}
   .figs div+div{padding-left:0;border-left:0;border-top:1px solid var(--rule)}
   .trend text{font-size:30px}
 }
@@ -78,13 +79,17 @@ footer .wrap{padding-top:2.5rem;padding-bottom:3rem}
 </header>
 <main>
   <div class="wrap">
-    <p class="lead">I run operations and maintenance on safety-critical Oil &amp; Gas assets, and I build the tools that help me decide before a failure decides for me.</p>
+    <p class="lead">I run operations, maintenance and safety on a Seveso upper-tier coastal depot, turning technical problems into decisions that hold up on cost, risk and compliance.</p>
     <p>For seventeen years I have worked on regulated industrial sites, since 2012 on a coastal fuel depot subject to the Seveso directive, on behalf of two energy majors. I lead a multidisciplinary team of twenty people across mechanical maintenance, critical lifting and ship unloading.</p>
-    <dl class="figs" aria-label="Results achieved with my team">
-      <div><dt>&minus;20%</dt><dd>unplanned downtime</dd></div>
-      <div><dt>&minus;40%</dt><dd>safety-critical events</dd></div>
-      <div><dt>+15&ndash;20%</dt><dd>MTBF on critical assets</dd></div>
+    <dl class="figs" aria-label="Scope of responsibility">
+      <div><dt>Seveso III</dt><dd>upper-tier establishment</dd></div>
+      <div><dt>20</dt><dd>people in a multidisciplinary team</dd></div>
+      <div><dt>~10</dt><dd>contractors coordinated each year</dd></div>
+      <div><dt>100+</dt><dd>assets under technical supervision</dd></div>
     </dl>
+
+    <h2>A case from the field</h2>
+    <div class="item"><h3>From recurring failures to a root cause</h3><p>Two critical pumps kept failing year after year: within days of each overhaul and realignment, the spectrum showed misalignment again. I built a cost-benefit case for second-level vibration analysis and got it approved. The analysis traced the problem to resonance in an unsuitable elevated base. Through a management of change, the pumps were relocated onto the concrete slab. Today they need only their scheduled yearly overhaul.</p></div>
 
     <h2>What I work on</h2>
     <div class="item"><h3>Reliability as a management decision</h3><p>Every maintenance choice is a trade-off between cost, availability and risk. I make that trade-off explicit, measurable and defensible.</p></div>
